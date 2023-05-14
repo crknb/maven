@@ -1,0 +1,3 @@
+# Project exclude paths
+/maven01/target/
+/web01/target/
